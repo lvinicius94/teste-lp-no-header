@@ -61,20 +61,17 @@ function App() {
         <div className='div-segunda-dobra'>
                 <div className='texto-final'>
                     <h2>Como Receber</h2>
-                    <h3>1 - Faça seu cadastro no nosso site</h3>
-                    <p>Clique no botão para poder resgatar seu bônus em sua conta na UPBET</p>
+                    <h3>1 - Faça seu cadastro na UP</h3>
+                    <p>Tudo é muito rápido e fácil, não leva nem 1 minuto!</p>
 
-                    <h3>2 - Faça um depósito a partir de R$ 5</h3>
-                    <p>Não esqueça de colocar o promocode “UPC24”</p>    
+                    <h3>2 - Utilize o PROMOCODE</h3>
+                    <p>Na página de depósito, utilize o promocode: UPC24</p>    
 
-                    <h3>3 - Confirme seu depósito</h3>
-                    <p>Aceitamos PIX e cai instantaneamente na sua conta!</p>  
+                    <h3>3 - Complete seu depósito</h3>
+                    <p>Complete seu primeiro depósito na UP com o valor de 5 reais e ganhe na hora mais de 20 reais para você jogar!</p>  
 
-                    <h3>4 - Pronto! Está tudo feito</h3>
-                    <p>O bônus cai junto com o valor depositado, e você ja pode usar!</p>
-
-                    <h3>5 - Válido para os jogos mais famosos!</h3>
-                    <p>Fortune Rabbit, Fortune OX, Fortune Mouse, Fortune Dragon, Dragon Hatch, Gates of Olympus, Sugar Rush</p>   
+                    <h3>4 - Aproveite seus Bônus</h3>
+                    <p>Tudo pronto! Agora é a hora de você aproveitar seu novo saldo para se divertir e lucrar ainda mais!</p>
                 </div>
 
                 {/* Render the button only if showButton is true */}
