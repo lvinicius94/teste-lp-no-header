@@ -1,0 +1,40 @@
+.botao-codigo-promocional{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background: #000;
+    color: #13C9B8;
+    font-weight: bolder;
+    border: none;
+    margin: 10px 0;
+    margin-left: 30px;
+}
+
+.botao-codigo-promocional a{
+    padding: 10px 20px;
+    color: #13C9B8;
+    border: none;
+}
+
+
+.botao-codigo-promocional a:hover{
+    color: #13C9B8;
+}
+
+.codigoCopiado{
+    position: absolute;
+    display: flex;
+}
+
+.botao-codigo-promocional:hover{
+    cursor: pointer;
+}
+
+
+@media (max-width: 1000px) {
+
+.botao-codigo-promocional{
+    margin-left: 0;
+}
+
+
+}
